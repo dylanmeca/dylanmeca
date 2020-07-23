@@ -12,6 +12,10 @@ Soy Dylan Alexander, tambien conocido en youtube como SUPERDYLANYT. mi nombre de
 
 - 🌎 Mi perfil de Fandom: <a href="https://community.fandom.com//wiki/User:SUPERDYLANYT"> https://community.fandom.com//wiki/User:SUPERDYLANYT</a>
 
+- 🌎 Twitter: <a href="https://twitter.com/DYLAN1456711">https://twitter.com/DYLAN1456711</a>
+
+- 🌎 Instagram: <a href="https://www.instagram.com/superdylanyt.oficial/">https://www.instagram.com/superdylanyt.oficial/</a>
+
 ```python
 
    print("Hola a todos")

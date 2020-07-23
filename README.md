@@ -1,16 +1,15 @@
-### Hi there 👋
+### SUPERDYLANYT
 
-<!--
-**dylan14567/dylan14567** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+#### English
 
-Here are some ideas to get you started:
+I'm Dylan Alexander aka SUPERDYLANYT on YouTube. my github username is dylan14567. I am a video game and application programmer and computer expert.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### Español
+
+Soy Dylan Alexander, alias SUPERDYLANYT en YouTube. mi nombre de usuario de github es dylan14567. Soy un programador de videojuegos y aplicaciones y experto en informática.
+
+```
+   html
+    <h1>
+
+```

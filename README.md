@@ -1,15 +1,15 @@
 ### SUPERDYLANYT
 
-Soy Dylan Alexander, mi nombre de usuario de github es dylan14567. Soy un programador de videojuegos y aplicaciones y experto en informática.
+I'm Dylan Alexander, my github username is dylan14567. I am a video game and application programmer and computer expert.
 
 ```python
 
-   print("Hola a todos")
+   print("Hello everyone")
 
-   nombre = "Dylan"
-   mensaje = " Hola "
+   name = "Dylan"
+   message = " Hello "
 
-   print(nombre + mensaje)
+   print(name + message)
 
 ```
 

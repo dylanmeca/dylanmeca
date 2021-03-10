@@ -2,7 +2,7 @@
 
 I am Dylan Alexander and a video game and application programmer and computer expert.
 
-I started in computer security in 2019 and learned about cybersecurity and ethical hacking.
+I started in computer security in 2019, learned about cybersecurity and ethical hacking.
  
 The first language I learned is python, and I am currently creating projects.
 

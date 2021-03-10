@@ -1,6 +1,6 @@
 ### SUPERDYLANYT
 
-I'm Dylan Alexander, my github username is dylan14567. I am a video game and application programmer and computer expert.
+I am Dylan Alexander and a video game and application programmer and computer expert.
 
 ```python
 
@@ -13,4 +13,4 @@ I'm Dylan Alexander, my github username is dylan14567. I am a video game and app
 
 ```
 
-<img src="https://github-readme-stats.vercel.app/api?username=dylan14567">
+![status](https://github-readme-stats.vercel.app/api?username=dylan14567)

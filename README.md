@@ -1,6 +1,6 @@
 ### SUPERDYLANYT
 
-I am Dylan Alexander and a video game and application programmer and computer expert. 
+I'm Dylan Alexander, a video game, application programmer, and computer expert.
 
 I started in computer security in 2019, I learned about ethical and cybersecurity hacking. 
 

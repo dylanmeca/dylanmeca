@@ -1,6 +1,6 @@
 ### DYLAN14567
 
-I'm Dylan Meca, a computer scientist and engineer. 
+I'm Dylan Meca, a scientist and engineer in computer science. 
 
 I started in computer security in 2019 and learned about cybersecurity topics. 
 

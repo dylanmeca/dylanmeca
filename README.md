@@ -1,4 +1,4 @@
-# DYLAN14567
+# Dylan Meca
 
 I'm Dylan Meca, scientist and computer engineer.
 

@@ -2,7 +2,7 @@
 
 I'm Dylan Meca, scientist and computer engineer and an amateur computer programmer.
 
-I have studied computer science and I learned more about the computer world and I learned about computer security and I realized that we can improve our systems through security tests to make them more secure. 🛡️
+I have studied computer science and I learned more about the computer world and I learned about computer security, I realized that we can improve our systems through security tests to make them more secure. 🛡️
 
 I am currently creating software, to improve technology and the future.
 

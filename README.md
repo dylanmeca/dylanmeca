@@ -8,6 +8,8 @@ I am currently creating software, to improve technology and the future.
 
 ## 🏆 Github profile trophy
 
+![trophy](https://github-profile-trophy.vercel.app/?username=dylan14567&theme=flat)
+
 ![languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dylan14567&layout=compact)
 
 ![status](https://github-readme-stats.vercel.app/api?username=dylan14567)

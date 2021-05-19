@@ -2,7 +2,7 @@
 
 I'm Dylan Meca, scientist and computer engineer and an amateur computer programmer.
 
-I started in computer security in 2019 and I learned about cybersecurity issues, these topics led me to a greater knowledge about the cyber world.
+I have studied computer science and I learned more about the computer world and I learned about computer security and I realized that we can improve our systems through security tests to make them more secure. 🛡️
 
 I am currently creating software, to improve technology and the future.
 

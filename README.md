@@ -6,6 +6,6 @@ Thanks to my computer science studies, I learned more about the cyber world, I a
 
 I am currently creating software, to improve technology and the future.
 
-![languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dylan14567&layout=compact)
+![languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dylanmeca&layout=compact)
 
-![status](https://github-readme-stats.vercel.app/api?username=dylan14567)
+![status](https://github-readme-stats.vercel.app/api?username=dylanmeca)

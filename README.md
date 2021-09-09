@@ -1,6 +1,6 @@
 # Dylan Meca
 
-I'm Dylan Meca, scientist and computer engineer and an amateur computer programmer.
+I'm Dylan Meca, a software developer and hobbyist computer programmer.
 
 Thanks to my computer science studies, I learned more about the cyber world, I also learned about computer security and I realized that we can improve our systems through security tests to make them more secure. 🛡️
 

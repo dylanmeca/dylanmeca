@@ -1,10 +1,10 @@
 # Dylan Meca
 
-I'm Dylan Meca, a software developer and hobbyist computer programmer.
+I am Dylan Meca, a student specialized in computer science and mathematics. I am also a software developer and a computer programmer. 
 
-Thanks to my computer science studies, I learned more about the cyber world, I also learned about computer security and I realized that we can improve our systems through security tests to make them more secure. 🛡️
+Thanks to my computer science studies, I was able to understand how technology works. I also learned computer security, since today cybersecurity is necessary to avoid dangers. 🛡 
 
-I am currently creating software, to improve technology and the future.
+One of the things that I have learned is mathematics, since it is one of my passions like computer science and at the same time mathematics like physics are used to calculate speed and other interesting things.
 
 ![languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dylanmeca&layout=compact)
 

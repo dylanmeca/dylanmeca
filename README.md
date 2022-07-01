@@ -1,6 +1,6 @@
 # Dylan Meca
 
-I am Dylan Meca, a student specialized in computer science, especially in the area of machine learning and I also specialize in the area of mathematics.
+I am Dylan Meca, a student specialized in computer science, especially in the area of machine learning and I also specialize in the area of mathematics. 💻
 
 During those years of study I have learned various subjects and programming languages, such as python, which is a language widely used in machine learning. One of the reasons why I consider python a recommended language is because of its ease of learning and because you could specialize in quantum computing thanks to the IBM library called Qiskit.
 

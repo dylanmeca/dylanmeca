@@ -1,6 +1,6 @@
 # Dylan Meca
 
-I am Dylan Meca, a student specialized in computer science, specialize in the area of artificial intelligence, and I am also specializing in physics. 🖥️
+I am Dylan Meca, a student specialized in computer science, especially in the area of artificial intelligence and I also specialize in the area of physics. 🖥️
 
 During those years of study I have learned various subjects and programming languages, such as python, which is a language widely used in artificial intelligence. I also learned about cybersecurity as it is important to keep software safe and detect vulnerabilities. 🛡️
 

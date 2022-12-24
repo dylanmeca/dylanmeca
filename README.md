@@ -1,10 +1,10 @@
 # Dylan Meca
 
-I am Dylan Meca, a student specialized in computer science, especially in the area of artificial intelligence and I also specialize in the area of physics. 🖥️
+I'm Dylan Meca, a student specializing in computer science and physics. My main field of interest is artificial intelligence, and I have spent time and effort learning various subjects and programming languages ​​related to this area, such as python. 💻  
 
-During those years of study I have learned various subjects and programming languages, such as python, which is a language widely used in artificial intelligence. I also learned about cybersecurity as it is important to keep software safe and detect vulnerabilities. 🛡️
+I have also taken an interest in cybersecurity, as I understand the importance of maintaining software security and detecting vulnerabilities to protect our systems. 🛡️ 
 
-One of the subjects I have learned is physics, since it is one of my passions like computing. And physics itself can help us solve problems and create new technologies. 📚
+Physics is another of my areas of interest, and I have learned about how we can use its principles to solve problems and create new technologies. I continue to learn and develop my skills in both areas of study. 📚
 
 ![languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dylanmeca&layout=compact)
 

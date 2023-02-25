@@ -3,6 +3,8 @@
 
 I'm Dylan Meca, a software developer 🖥️. My dedication and perseverance in the world of programming have led me to be a highly trained professional in the area, always looking for new challenges and opportunities to improve my skills and knowledge. 📚
 
+### Languages and more
+
 ![languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dylanmeca&layout=compact)
 
 ![status](https://github-readme-stats.vercel.app/api?username=dylanmeca)

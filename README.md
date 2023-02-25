@@ -10,6 +10,8 @@ I'm Dylan Meca, a software developer 🖥️. My dedication and perseverance in 
 - [📱 Termux-legacy-repo 📦](https://github.com/dylanmeca/termux-legacy-repo) an apt repository for Termux Legacy, install packages that are no longer available in Termux Legacy. This apt repository is not official for Termux.
 - [☣ MecaU 🦠](https://github.com/dylanmeca/MecaU) is a program designed to scan and detect the presence of malware in a directory specified by the user through the command line. 
 
+[![trophy](https://github-profile-trophy.vercel.app/?username=dylanmeca)](https://github.com/ryo-ma/github-profile-trophy)
+
 ### 👨‍💻 Languages and more 📚
 
 ![languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dylanmeca&layout=compact)

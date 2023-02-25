@@ -1,7 +1,9 @@
 <h1 align="center">🖥️ Dylan Meca 📚</h1>
 <h3 align="center">🛡️ Software Developer 👨‍💻</h3>
 
-I'm Dylan Meca, a software developer 🖥️. My dedication and perseverance in the world of programming have led me to be a highly trained professional in the area, always looking for new challenges and opportunities to improve my skills and knowledge. 📚
+I am Dylan Meca, a highly trained software developer 🖥️ in the Python language 🐍. Throughout my career, I have demonstrated dedication and perseverance in the world of programming, and I am always looking for new challenges and opportunities to improve my skills and knowledge. 📚
+
+In addition to my experience in software development, I also have a passion for technological dissemination and education 👨‍💻. I share content on [YouTube](https://www.youtube.com/c/DylanMeca) to inform and educate people about the latest trends in the technology industry 🏭 and to explain complex concepts clearly and accessible. 📜
 
 ### 📦 Projects and achievements 🏆
 

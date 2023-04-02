@@ -1,5 +1,5 @@
 <h1 align="center">🖥️ Dylan Meca 📚</h1>
-<h3 align="center">🛡️ Software Developer 👨‍💻</h3>
+<h3 align="center">🛡️ Python Developer 👨‍💻</h3>
 
 I am Dylan Meca, a highly trained software developer 🖥️ in the Python language 🐍. Throughout my career, I have demonstrated dedication and perseverance in the world of programming, and I am always looking for new challenges and opportunities to improve my skills and knowledge. 📚
 

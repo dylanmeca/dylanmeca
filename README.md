@@ -1,9 +1,9 @@
 <h1 align="center">🖥️ Dylan Meca 📚</h1>
 <h3 align="center">🛡️ Python Developer 👨‍💻</h3>
 
-I'm Dylan Meca, a software developer 🖥️ highly trained in the Python language 🐍 with experience developing automation tools. 🤖
+I'm Dylan Meca, a technology disseminator 💻 with experience developing automation tools. 🤖 
 
-In addition to my experience in software development, I also have a passion for technological dissemination and education 👨‍💻. I share content on [YouTube](https://www.youtube.com/c/DylanMeca) to inform and educate people about the latest trends in the technology industry 🏭 and to explain complex concepts clearly and accessible. 📜
+I share content on YouTube to inform and educate people about the latest trends in the tech industry 🏭 and to explain complex concepts in a clear and accessible way. 📜
 
 ### 📦 Projects and achievements 🏆
 

@@ -1,7 +1,7 @@
 <h1 align="center">🖥️ Dylan Meca 📚</h1>
-<h3 align="center">🛡️ Programmer 👨‍💻</h3>
+<h3 align="center">👨‍💻 Technology Disseminator 🛠️</h3>
 
-I'm Dylan Meca, a self-taught programmer 💻 with experience developing automation tools 🤖, specialized in arduino 🛠️.
+I'm Dylan Meca, a self-taught programmer 💻 with experience developing automation tools 🤖, specialized in Arduino 🛠️ and mathematics 📚.
 
 I share content on YouTube to inform and educate people about the latest trends in the tech industry 🏭 and to explain complex concepts in a clear and accessible way. 📜
 

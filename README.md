@@ -3,9 +3,8 @@
 
 I'm Dylan Meca, a self-taught programmer 💻 with experience developing automation tools 🤖, specialized in arduino 🛠️ and python 📚.
 
-### 📦 Projects and achievements 🏆
+### 📦 Projects 🧑‍💼
 
-- 📜 I have earned multiple [certificates](https://dylanmeca.github.io/mis-certificados.html) studying online. 
 - [🔬 Labsecurity 🛡️](https://github.com/dylanmeca/labsecurity) is a tool that bundles ethical hacking python scripts into a single tool with cli interface.
 - [🤖 ChatGPT-Assistant 🐍](https://huggingface.co/spaces/dylanmeca/ChatGPT-Assistant) is a chatbot that uses the gpt-3.5-turbo model through the openai api.
 

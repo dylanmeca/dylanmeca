@@ -10,9 +10,3 @@ I'm Dylan Meca, a self-taught programmer 💻 with experience developing automat
 - [🤖 ChatGPT-Assistant 🐍](https://huggingface.co/spaces/dylanmeca/ChatGPT-Assistant) is a chatbot that uses the gpt-3.5-turbo model through the openai api.
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=dylanmeca)](https://github.com/ryo-ma/github-profile-trophy)
-
-### 👨‍💻 Languages and more 📚
-
-![languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dylanmeca&layout=compact)
-
-![status](https://github-readme-stats.vercel.app/api?username=dylanmeca)

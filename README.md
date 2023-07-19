@@ -1,7 +1,7 @@
 <h1 align="center">🖥️ Dylan Meca 📚</h1>
 <h3 align="center">🐍 Python Developer 👨‍💻</h3>
 
-I'm Dylan Meca, a self-taught programmer 💻 with experience developing automation tools 🤖, specialized in python 🐍 and mathematics 📚.
+I'm Dylan Meca, a self-taught programmer 💻 with experience developing automation tools 🤖, specialized in python 🐍 and physics 📚.
 
 ### 📦 Projects 🧑‍💼
 

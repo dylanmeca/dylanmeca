@@ -29,3 +29,17 @@
         <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="DylanMeca" height="30" width="30" style="vertical-align: middle;">
     </a>
 </div>
+
+<h3 align="left">Languages:</h3>
+<div style="text-align: left;">
+    <a href="https://www.python.org/" target="_blank" style="margin-right: 10px;">
+        <img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" alt="python" width="40" height="40">
+    </a>
+    <a href="https://isocpp.org/" target="_blank">
+        <img src="https://raw.githubusercontent.com/isocpp/logos/master/cpp_logo.png" alt="cpp" width="40" height="40">
+    </a>
+</div>
+
+<div style="text-align: center;">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=dylanmeca" alt="dylanmeca">
+</div>

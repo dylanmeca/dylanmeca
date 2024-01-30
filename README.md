@@ -16,7 +16,7 @@
        [Ubuntu](https://ubuntu.com/) distribution through [WSL2](https://learn.microsoft.com/en-us/windows/wsl/install). Due to stability issues and inconveniences that arose, I decided 
        to switch to the [Debian](https://www.debian.org/) distribution, which is my favorite and I still use it to this day.
   - 🐍 In 2020, I learned the [Python](https://www.python.org/) programming language through a course, ending on December 8.
-       [🏆Certified](https://dylanmeca.github.io/assets/img/certificado-python.png)
+       [🏆Certified](https://www.udemy.com/certificate/UC-dc5f60cb-435c-4323-a92d-8cc60affc92f/)
   - 🌐 To strengthen my networking knowledge, in the year 2021 I learned Networking Fundamentals, ending on November 14.
        [🏆Certified](https://dylanmeca.github.io/assets/img/certificado-fundamentos-de-redes.jpg)
   - 📚 Currently, I am learning [C++](https://isocpp.org/), with the purpose of learning how to create optimized libraries for Python.

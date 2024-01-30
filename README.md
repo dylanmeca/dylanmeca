@@ -40,7 +40,7 @@
     <a href="https://isocpp.org/" target="_blank">
         <img src="https://raw.githubusercontent.com/isocpp/logos/master/cpp_logo.png" alt="cpp" width="40" height="40">
     </a>
-</div>
+</div><br />
 
 <div style="text-align: center;">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=dylanmeca" alt="dylanmeca">

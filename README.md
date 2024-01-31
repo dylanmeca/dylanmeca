@@ -1,5 +1,5 @@
 <h1 align="center">🚀 Dylan Meca 📚</h1>
-<h3 align="center">👨‍💻 Programmer 🔧</h3><br />
+<h3 align="center">👨‍💻 Programmer & Matematist 🔧</h3><br />
 
 <div style="text-align: left;">
     <a href="https://github.com/ryo-ma/github-profile-trophy" target="_blank">

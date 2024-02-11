@@ -20,7 +20,6 @@
   - 🌐 To strengthen my networking knowledge, in the year 2021 I learned Networking Fundamentals, ending on November 14.
        [🏆Certified](https://www.udemy.com/certificate/UC-dc5f60cb-435c-4323-a92d-8cc60affc92f/)
   - 📚 Currently, I am learning [C](https://en.wikipedia.org/wiki/C_(programming_language)), with the purpose of learning how to create optimized libraries for Python.
-  - 📧 E-mail: dylanmeca70@gmail.com
 
 <h3 align="left">Social media:</h3>
 <div style="text-align: left;">

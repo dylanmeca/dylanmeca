@@ -19,7 +19,7 @@
        [🏆Certified](https://raw.githubusercontent.com/dylanmeca/dylanmeca/master/certificate/python3-certificate.jpg)
   - 🌐 To strengthen my networking knowledge, in the year 2021 I learned Networking Fundamentals, ending on November 14.
        [🏆Certified](https://www.udemy.com/certificate/UC-dc5f60cb-435c-4323-a92d-8cc60affc92f/)
-  - 📚 Currently, I am learning and deepening my knowledge in several topics related to data science.
+  - 📚 Currently, I am learning and deepening my knowledge in several topics related to data analysis. 
   - 📧 E-mail: dylanmeca70@gmail.com
 
 <h3 align="left">Social media:</h3>

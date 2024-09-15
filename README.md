@@ -19,7 +19,7 @@
        [🏆Certified](https://raw.githubusercontent.com/dylanmeca/dylanmeca/master/certificate/python3-certificate.jpg)
   - 🌐 To strengthen my networking knowledge, in the year 2021 I learned Networking Fundamentals, ending on November 14.
        [🏆Certified](https://www.udemy.com/certificate/UC-dc5f60cb-435c-4323-a92d-8cc60affc92f/)
-  - 📚 Currently, I am learning [C++](https://www.learncpp.com/), with the purpose of learning how to create better tools.
+  - 📚 Currently, I am learning [C](https://en.cppreference.com/w/c/language), with the purpose of learning how to create better tools.
   - 📧 E-mail: dylanmeca70@gmail.com
 
 <h3 align="left">Social media:</h3>
@@ -37,8 +37,8 @@
     <a href="https://www.python.org/" target="_blank" style="margin-right: 10px;">
         <img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" alt="python" width="40" height="40">
     </a>
-    <a href="https://www.learncpp.com/" target="_blank" style="margin-right: 10px;">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40">
+    <a href="https://en.cppreference.com/w/c/language" target="_blank" style="margin-right: 10px;">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40">
     </a>
 </div><br />
 
